@@ -1,0 +1,10 @@
+.prostata_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prostata{
+        font-size: 300px;
+        color:brown;
+}
